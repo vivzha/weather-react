@@ -3,7 +3,6 @@
   font-family: arial, sans-serif;
   color: rgb(135, 135, 135);
   padding: 16px;
-
   max-width: 600px;
   border-radius: 4px;
 }
@@ -30,9 +29,7 @@
 }
 
 .Weather canvas {
-  margin-right: 5px;
-  margin-top: 5px;
-  display: inline-block;
+  margin: 10px auto;
 }
 
 .Weather .temperature {
