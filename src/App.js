@@ -9,7 +9,11 @@ export default function App() {
         <Weather defaultCity="New York" />
         <footer>
           This project is created by Vivian Zhang and is{" "}
-          <a href="https://github.com/vivzha/weather-react" target="_blank">
+          <a
+            href="https://github.com/vivzha/weather-react"
+            target="_blank"
+            rel="noreferrer"
+          >
             open-sourced on Github
           </a>
         </footer>
